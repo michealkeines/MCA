@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Generations of computers.md",
-            "mode": "source"
+            "file": "computer memory.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generations of computers.md",
+                "file": "computer memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,11 @@
   },
   "active": "530b6a85c5955343",
   "lastOpenFiles": [
+    "computer memory.md",
+    "Basic Operations.md",
     "Generations of computers.md",
+    "Classification of computers.md",
+    "Extra-1.md",
     "Introduction to computers.md"
   ]
 }
