@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "786b71ab57e4aa52",
+    "type": "split",
+    "children": [
+      {
+        "id": "f936dcf9c1ff99cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "assignment one.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b23563aad1c56f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91439284b9a803ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2969a92282c4f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05aba38baca1c4fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26e8010237502291",
+    "type": "split",
+    "children": [
+      {
+        "id": "f562234815ead06d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7716289954b08a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assignment one.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f936dcf9c1ff99cb",
+  "lastOpenFiles": [
+    "assignment one.md",
+    "Terminals.md",
+    "Introduction to Linux.md",
+    "extra-1.md"
+  ]
+}
