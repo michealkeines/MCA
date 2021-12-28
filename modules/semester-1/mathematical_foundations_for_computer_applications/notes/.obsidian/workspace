@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "3debbc47ef4b914e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff21e645a01df49f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Introduction to mathematical logic.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d66ba30244c3eed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e213ea391f3665df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ce41ee639025250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcc7de6180b47d8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 150
+  },
+  "right": {
+    "id": "2b00920334dc2baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f05a8c3875b25a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817cd84179b80d94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction to mathematical logic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff21e645a01df49f",
+  "lastOpenFiles": [
+    "Introduction to mathematical logic.md",
+    "Pasted image 20211227082902.png"
+  ]
+}

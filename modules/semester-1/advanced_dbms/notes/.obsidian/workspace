@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "9dd16e107ed85c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb014d0f4192b1d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SQL.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8863a91e0ffd8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c084f0f806c04200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1838022bcd4e2fc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d2d7dbd2bdca55c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234
+  },
+  "right": {
+    "id": "30352e0c4a3b413b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae1a96b9e7eb64b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c448775851e8f1fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb014d0f4192b1d2",
+  "lastOpenFiles": [
+    "SQL.md",
+    "postgres commands.md",
+    "ACID properties in DBMS.md",
+    "Introduction to DBMS.md"
+  ]
+}
