@@ -180,6 +180,7 @@ p V -p
 
 ![[Pasted image 20211228051500.png]]
 
+
 A contradiction is a compound proposition that is false no matter what
 
 p ^ -p
@@ -193,3 +194,25 @@ Logical equivalence:
 compound proposition p is logicaly equivalent to compound propoition q, written p<->q, iff the compound porposition p<->q is a tautology
 
 compound proposition p and q are logically equivalent to each other IFF p and q contain the same truth values as each other in all rows of their truth tables
+
+
+Eqivalence laws:
+
+they provide a pattern or templtae that can be used to match all or part of a much more complicated proposition and to find an equivalence for it.
+
+![[Pasted image 20211228062034.png]]
+
+![[Pasted image 20211228062147.png]]
+
+![[Pasted image 20211228062226.png]]
+
+![[Pasted image 20211228062250.png]]
+
+Duality law
+
+two statment formulas A and A* are said to be duals of each other if either one can be obtained from the other by replacaing ^ by v or v by ^
+
+the connective V and ^ are also called as duals of each other
+
+if the fourmula A contains the specail variable T or F then A* its dual, is obtained by replacing T by F and F by T in addition to the above mentioned interchanges
+
