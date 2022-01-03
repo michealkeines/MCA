@@ -116,6 +116,8 @@ it excules the possibilty that both p and q are true, thuus it is exlusive or
 
 implication operator:
 
+![[Pasted image 20211229065324.png]]
+
 p -> q, if p, then q
 
 p = you study hard
@@ -144,6 +146,8 @@ the contrapositive of p -> q is the propositon -q -> -p
 the proposition -p -> -q is called inversion of p -> q
 
 Bicondition operators:
+
+![[Pasted image 20211229065344.png]]
 
 p<->q, p if only if q
 
@@ -215,4 +219,29 @@ two statment formulas A and A* are said to be duals of each other if either one 
 the connective V and ^ are also called as duals of each other
 
 if the fourmula A contains the specail variable T or F then A* its dual, is obtained by replacing T by F and F by T in addition to the above mentioned interchanges
+
+try this url before exam,
+
+https://math.libretexts.org/Bookshelves/Applied_Mathematics/Math_in_Society_(Lippman)/17%3A_Logic/17.06%3A_Section_6-
+
+negation
+
+all - some
+always - does not always
+
+![[Pasted image 20211229061313.png]]
+
+![[Pasted image 20211229061350.png]]
+
+![[Pasted image 20211229061407.png]]
+
+![[Pasted image 20211229061423.png]]
+
+![[Pasted image 20211229061618.png]]
+
+![[Pasted image 20211229061809.png]]
+
+![[Pasted image 20211229061926.png]]
+
+![[Pasted image 20211229062019.png]]
 
