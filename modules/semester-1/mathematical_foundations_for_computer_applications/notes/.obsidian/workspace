@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction to mathematical logic.md",
-            "mode": "source"
+            "file": "Resolution and fallacies.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150
+    "width": 308
   },
   "right": {
     "id": "2b00920334dc2baa",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to mathematical logic.md",
+                "file": "Resolution and fallacies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,11 @@
   },
   "active": "ff21e645a01df49f",
   "lastOpenFiles": [
+    "Resolution and fallacies.md",
+    "Rules of Inference.md",
+    "Normal Form.md",
+    "problems.md",
+    "Operators.md",
     "Introduction to mathematical logic.md",
     "Pasted image 20211227082902.png"
   ]
