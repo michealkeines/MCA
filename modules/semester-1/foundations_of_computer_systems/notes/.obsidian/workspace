@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer memory.md",
-            "mode": "preview"
+            "file": "Program Execution.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 377
   },
   "right": {
     "id": "db7be0ec2c7ebe27",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer memory.md",
+                "file": "Program Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,14 @@
   },
   "active": "530b6a85c5955343",
   "lastOpenFiles": [
+    "Program Execution.md",
+    "Introduction to computers.md",
+    "Instructions.md",
+    "Computer Architecture.md",
     "computer memory.md",
-    "Basic Operations.md",
     "Generations of computers.md",
+    "Basic Operations.md",
     "Classification of computers.md",
-    "Extra-1.md",
-    "Introduction to computers.md"
+    "Extra-1.md"
   ]
 }
