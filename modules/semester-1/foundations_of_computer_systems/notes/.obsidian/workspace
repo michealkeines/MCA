@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Program Execution.md",
+            "file": "GNU sim.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Execution.md",
+                "file": "GNU sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "530b6a85c5955343",
   "lastOpenFiles": [
-    "Program Execution.md",
-    "Introduction to computers.md",
-    "Instructions.md",
-    "Computer Architecture.md",
+    "GNU sim.md",
     "computer memory.md",
-    "Generations of computers.md",
-    "Basic Operations.md",
+    "ALU.md",
+    "8085 Micro Processing Unit (MPU).md",
     "Classification of computers.md",
-    "Extra-1.md"
+    "Computer Architecture.md",
+    "Extra-1.md",
+    "Generations of computers.md",
+    "Instructions.md",
+    "Introduction to computers.md"
   ]
 }

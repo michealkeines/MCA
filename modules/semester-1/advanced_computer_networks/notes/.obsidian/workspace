@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "354549d048f9d24c",
+        "id": "a628279280c54484",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internet.md",
-            "mode": "source"
+            "file": "Network Protocols.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206
+    "width": 324.00000190734863
   },
   "right": {
     "id": "90493307c5208858",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet.md",
+                "file": "Network Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "354549d048f9d24c",
+  "active": "a628279280c54484",
   "lastOpenFiles": [
-    "Internet.md",
-    "Network.md",
-    "network basics.md"
+    "Network Protocols.md",
+    "Network TCP-IP working.md",
+    "Packet sniffer - wrieshark.md",
+    "Pasted image 20211229011731.png",
+    "Pasted image 20211229010721.png",
+    "network basics.md",
+    "Protocol suite.md",
+    "Rules of communication.md",
+    "Network architecture.md",
+    "current trends.md"
   ]
 }
