@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL.md",
-            "mode": "source"
+            "file": "Constraints.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234
+    "width": 227.00000190734863
   },
   "right": {
     "id": "30352e0c4a3b413b",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,14 @@
   },
   "active": "cb014d0f4192b1d2",
   "lastOpenFiles": [
-    "SQL.md",
+    "Constraints.md",
     "postgres commands.md",
-    "ACID properties in DBMS.md",
-    "Introduction to DBMS.md"
+    "Database System Structure.md",
+    "Database Schema.md",
+    "Three level Data Abstraction.md",
+    "Introduction to DBMS.md",
+    "Database architectures.md",
+    "SQL.md",
+    "ACID properties in DBMS.md"
   ]
 }
