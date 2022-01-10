@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assignment4.md",
+            "file": "Permissions.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 381.00000190734863
   },
   "right": {
     "id": "26e8010237502291",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignment4.md",
+                "file": "Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f936dcf9c1ff99cb",
   "lastOpenFiles": [
-    "assignment4.md",
-    "extra-1.md",
-    "assignment3.md",
-    "assignment two.md",
+    "Permissions.md",
+    "Users & Groups.md",
     "Untitled 1.md",
-    "file manipulation.md",
-    "Shell.md",
+    "Untitled.md",
     "Terminals.md",
-    "File descriptors & streams.md",
-    "regular expressions.md"
+    "Shell.md",
+    "regular expressions.md",
+    "Paths.md",
+    "Introduction to Linux.md",
+    "File descriptors & streams.md"
   ]
 }

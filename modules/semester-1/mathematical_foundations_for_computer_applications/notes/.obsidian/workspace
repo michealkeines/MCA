@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resolution and fallacies.md",
-            "mode": "preview"
+            "file": "Further reading-1.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resolution and fallacies.md",
+                "file": "Further reading-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "ff21e645a01df49f",
   "lastOpenFiles": [
-    "Resolution and fallacies.md",
+    "Further reading-1.md",
     "Rules of Inference.md",
+    "Resolution and fallacies.md",
     "Normal Form.md",
     "problems.md",
     "Operators.md",

@@ -1,0 +1,12 @@
+Instructions
+------------
+
+You have to first gain acess to the 'assignment' directory and then the 
+objective is to execute the 'user' binary provided in the 'assignment'
+folder within your home directory under the right conditions to retreive 
+the flag.There are two additional binaries provided
+
+    * create-user: can be used to add a new user to the system
+    * delete-user: can be used to delete a user from the system
+
+Use them to achieve your objective...
