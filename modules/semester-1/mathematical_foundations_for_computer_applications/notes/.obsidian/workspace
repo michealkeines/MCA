@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ff21e645a01df49f",
+        "id": "06d9d332e7442e6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Further reading-1.md",
-            "mode": "source"
+            "file": "Rules of inference for quantified statements.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further reading-1.md",
+                "file": "Rules of inference for quantified statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff21e645a01df49f",
+  "active": "06d9d332e7442e6c",
   "lastOpenFiles": [
-    "Further reading-1.md",
-    "Rules of Inference.md",
-    "Resolution and fallacies.md",
-    "Normal Form.md",
+    "Rules of inference for quantified statements.md",
     "problems.md",
-    "Operators.md",
-    "Introduction to mathematical logic.md",
-    "Pasted image 20211227082902.png"
+    "Predicate, quantifiers, binding.md",
+    "problems for predicates.md",
+    "Normal Form.md",
+    "Further reading5.md",
+    "translating English to logical expressions.md",
+    "Resolution and fallacies.md",
+    "Quantifiers.md",
+    "Further reading-1.md"
   ]
 }

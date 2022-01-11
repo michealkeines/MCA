@@ -28,5 +28,7 @@ all they ahve same truth value, they are logically equivalent
 ![[Pasted image 20220104042723.png]]
 
 
+![[Pasted image 20220111020349.png]]
+
 
 
