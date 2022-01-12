@@ -1,0 +1,24 @@
+
+;multiplication of two 8-bit numbers
+
+jmp init
+
+init: mvi A, 43
+      sta 2050
+      mvi A, 7
+      sta 2051
+      jmp start
+
+
+start:  nop
+	lxi H, 2050
+	mov B, M
+	inx H
+	mov C, M
+	mvi A, 00
+loop:	add B
+	dcr C
+	jnz loop
+	inx H
+	mov M, A
+	hlt

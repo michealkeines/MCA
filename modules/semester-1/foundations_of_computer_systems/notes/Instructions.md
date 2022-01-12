@@ -61,5 +61,16 @@ address of next insturciton is stored in program counter
 Bit patter in the opcode field specifies which operation is requested by the instruction
 Bit pattern at he operand feild give more inofmation about the operaion
 
+https://technobyte.org/data-transfer-instructions-8085/
 
 
+Let’s start with a summary of all the instructions that are used to copy data from one place to another inside the 8085 microprocessor.
+
+In this table, R -> register; M -> Memory (HL register pair); data -> direct data; rp -> any of the three register pairs; A -> Accumulator; SP-> Stack pointer
+
+
+![[Pasted image 20220111234059.png]]
+
+![[Pasted image 20220111234112.png]]
+
+![[Pasted image 20220111234124.png]]

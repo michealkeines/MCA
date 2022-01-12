@@ -1,0 +1,42 @@
+;Find the largest number in the array
+jmp initarray
+initarray: nop
+        mvi A, 6 ;size of the array 6
+        sta 2050
+        mvi A, 1 ;initialize input array [1,2,5,4,8,3]
+        sta 2051
+        mvi A, 2
+        sta 2052
+        mvi A, 5
+        sta 2053
+        mvi A, 4
+        sta 2054
+        mvi A, 8
+        sta 2055
+	mvi A, 3
+        sta 2056          
+        jmp start
+
+start:	lxi H, 2050 ;start of the array to get length
+	mov C, M
+	mov D, C
+	lxi H, 2051
+	mvi C, 0
+
+
+loop:	mvi A, 0 	; 0 in A		
+	cmp D
+	jz  end		; check if D which holds the array size is equal to zero, 
+			; if not continue to next instruction
+	dcr D 		; decrement D in every iteration
+	mov A, C 	; move current largest to A
+	cmp M 		; compare current largest with current index
+	jc  update 	; if greater jump to update
+	inx H 		; increment index
+	jmp loop
+
+update: mov C, M ; move current to C, as it is greater
+	inx H ; increment index 
+	jmp loop
+
+end:	hlt	;hlt, register C will contain the largest number in the array

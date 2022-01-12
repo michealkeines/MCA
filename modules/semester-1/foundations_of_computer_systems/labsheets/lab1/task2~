@@ -1,0 +1,39 @@
+
+;Arrange an array of data in ascending order
+
+jmp initarray
+
+initarray: nop
+	mvi A, 5 ;size of the array 5
+	sta 2050
+	mvi A, 5 ;initialize input array [5,4,3,2,1]
+	sta 2051
+	mvi A, 4
+	sta 2052	
+	mvi A, 3
+	sta 2053
+	mvi A, 2
+	sta 2054
+	mvi A, 1
+	sta 2055	 
+	jmp start
+
+start:	lxi H, 2050   ;start of the array to get length
+	mov C, M      ;M refers to the address stored in H
+	dcr C
+repeat: mov D,C 
+	lxi H,2051    ;index 0
+loop: 	mov A,M       ;copy content of memory location to Accumulator
+	inx H 
+	cmp M 
+	jc  skip      ;jump to skip if carry generated
+	mov B,M       ;copy content of memory location to B - Register
+	mov M,A       ;copy content of Accumulator to memory location
+	dcx H         ;Decrement content of HL pair of registers
+	mov M,B       ;copy content of B - Register to memory location
+	inx H         ;Increment content of HL pair of registers
+skip: 	dcr D         ;Decrement content of Register - D
+	jnz loop      ;jump to loop if not equal to zero
+	dcr C         ;Decrement count
+	jnz repeat    ;jump to repeat if not equal to zero
+	hlt           ;Terminate Program

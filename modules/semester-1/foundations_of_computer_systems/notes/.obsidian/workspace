@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GNU sim.md",
-            "mode": "source"
+            "file": "Data Representation.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "control signal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNU sim.md",
+                "file": "Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "530b6a85c5955343",
   "lastOpenFiles": [
+    "Data Representation.md",
+    "Number System.md",
     "GNU sim.md",
-    "computer memory.md",
-    "ALU.md",
-    "8085 Micro Processing Unit (MPU).md",
-    "Classification of computers.md",
-    "Computer Architecture.md",
-    "Extra-1.md",
-    "Generations of computers.md",
+    "Binary Operations.md",
     "Instructions.md",
-    "Introduction to computers.md"
+    "Introduction to computers.md",
+    "8085 Micro Processing Unit (MPU).md",
+    "Computer Architecture.md",
+    "computer memory.md",
+    "ALU.md"
   ]
 }

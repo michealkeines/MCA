@@ -1,0 +1,17 @@
+
+; Add contents of two memory locations	
+
+jmp start
+
+start:	MVI A, 12 ;move 5 to register A
+	STA 2050 ;move value in A to address
+	MVI A, 6
+	STA 2051
+	LDA 2050 ;move value in address to A
+	MOV H, A 
+	LDA 2051 
+	MOV D, A ;move register to register
+	MVI A, 0
+	ADD H    ;add register with accumulator
+	ADD D
+	HLT

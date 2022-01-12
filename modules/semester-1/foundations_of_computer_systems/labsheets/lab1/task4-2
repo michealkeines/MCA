@@ -1,0 +1,26 @@
+; multiplication of two 8-bit numbers
+
+; Method, Successive addition, the second input is considered as the
+; the counter and the first number is added to itself until the 
+; counter decrements to zero
+
+jmp init
+
+init: mvi A, 43 ; input1
+      sta 2050
+      mvi A, 7 ; input2
+      sta 2051
+      jmp start
+
+
+start:  nop
+	lhld 2050 ; load from memory to HL
+	xchg 	  ; exchange contents from HL <-> DE
+	mov c, d  ; copy the count (input2) to c
+	mvi d, 00 
+	lxi h, 0000 ; HL holds the output
+loop:	dad d	    ; add value in E (holds input1) with HL
+	dcr C	    ; decrement count till it reaches 0
+	jnz loop
+	shld 2052   ; copy HL to memory location
+	hlt
