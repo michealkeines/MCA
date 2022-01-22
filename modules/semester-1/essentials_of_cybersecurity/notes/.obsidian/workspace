@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permissions.md",
+            "file": "securing digital data.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permissions.md",
+                "file": "securing digital data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f936dcf9c1ff99cb",
   "lastOpenFiles": [
+    "securing digital data.md",
+    "key based encryption.md",
+    "Kerckhoff principle.md",
+    "Untitled.md",
     "Permissions.md",
     "Users & Groups.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Terminals.md",
     "Shell.md",
     "regular expressions.md",
-    "Paths.md",
-    "Introduction to Linux.md",
-    "File descriptors & streams.md"
+    "Paths.md"
   ]
 }

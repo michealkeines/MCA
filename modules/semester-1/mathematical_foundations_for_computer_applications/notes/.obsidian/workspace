@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rules of inference for quantified statements.md",
-            "mode": "preview"
+            "file": "Proof.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules of inference for quantified statements.md",
+                "file": "Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "06d9d332e7442e6c",
   "lastOpenFiles": [
+    "Proof.md",
+    "Normal Form.md",
     "Rules of inference for quantified statements.md",
     "problems.md",
     "Predicate, quantifiers, binding.md",
     "problems for predicates.md",
-    "Normal Form.md",
     "Further reading5.md",
     "translating English to logical expressions.md",
     "Resolution and fallacies.md",
-    "Quantifiers.md",
-    "Further reading-1.md"
+    "Quantifiers.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "type conversion.md",
+            "file": "String.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "type conversion.md",
+                "file": "String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "43c0bf988dafe882",
   "lastOpenFiles": [
+    "String.md",
+    "evolution of java.md",
+    "Array.md",
+    "Pasted image 20220118224851.png",
+    "Untitled.md",
+    "Class.md",
     "type conversion.md",
     "Control Statement.md",
     "running a program.md",
-    "Types.md",
-    "Operators.md",
-    "OOP.md",
-    "evolution of java.md",
-    "Features of java.md",
-    "programming paradigms.md"
+    "Types.md"
   ]
 }

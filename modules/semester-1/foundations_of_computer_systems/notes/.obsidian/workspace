@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "530b6a85c5955343",
+        "id": "2aa42b28a52ff12e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Representation.md",
+            "file": "Functions of OS.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Representation.md",
+                "file": "Functions of OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "530b6a85c5955343",
+  "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "Functions of OS.md",
+    "Operating system.md",
+    "Software Components.md",
     "Data Representation.md",
+    "Computer System Structure.md",
+    "Instructions.md",
     "Number System.md",
     "GNU sim.md",
     "Binary Operations.md",
-    "Instructions.md",
-    "Introduction to computers.md",
-    "8085 Micro Processing Unit (MPU).md",
-    "Computer Architecture.md",
-    "computer memory.md",
-    "ALU.md"
+    "Introduction to computers.md"
   ]
 }

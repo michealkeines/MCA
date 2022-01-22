@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Constraints.md",
-            "mode": "preview"
+            "file": "ER diagram.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.00000190734863
+    "width": 338.00000190734863
   },
   "right": {
     "id": "30352e0c4a3b413b",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constraints.md",
+                "file": "ER diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "cb014d0f4192b1d2",
   "lastOpenFiles": [
+    "ER diagram.md",
+    "DML commands.md",
+    "ER model.md",
+    "constraints in ER model.md",
     "Constraints.md",
-    "postgres commands.md",
-    "Database System Structure.md",
+    "Untitled.md",
     "Database Schema.md",
-    "Three level Data Abstraction.md",
-    "Introduction to DBMS.md",
-    "Database architectures.md",
-    "SQL.md",
-    "ACID properties in DBMS.md"
+    "Database Design.md",
+    "Database users.md",
+    "postgres commands.md"
   ]
 }
