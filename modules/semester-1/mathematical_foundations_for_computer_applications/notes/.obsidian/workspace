@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proof.md",
-            "mode": "source"
+            "file": "Problems week 4.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof.md",
+                "file": "Problems week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "06d9d332e7442e6c",
   "lastOpenFiles": [
+    "Problems week 4.md",
     "Proof.md",
+    "Proof by contraposition.md",
+    "proof by contradiction.md",
+    "Proof by equivalence.md",
+    "Operators.md",
     "Normal Form.md",
     "Rules of inference for quantified statements.md",
     "problems.md",
-    "Predicate, quantifiers, binding.md",
-    "problems for predicates.md",
-    "Further reading5.md",
-    "translating English to logical expressions.md",
-    "Resolution and fallacies.md",
-    "Quantifiers.md"
+    "Predicate, quantifiers, binding.md"
   ]
 }

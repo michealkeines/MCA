@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ER diagram.md",
-            "mode": "source"
+            "file": "ER model.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strong entity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ER diagram.md",
+                "file": "ER model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "cb014d0f4192b1d2",
   "lastOpenFiles": [
+    "ER model.md",
+    "Database users.md",
     "ER diagram.md",
     "DML commands.md",
-    "ER model.md",
     "constraints in ER model.md",
     "Constraints.md",
     "Untitled.md",
     "Database Schema.md",
     "Database Design.md",
-    "Database users.md",
     "postgres commands.md"
   ]
 }
