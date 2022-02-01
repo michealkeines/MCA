@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Functions of OS.md",
+            "file": "Generations of computers.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "control signal",
+                "query": "generation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions of OS.md",
+                "file": "Generations of computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "Generations of computers.md",
+    "Number System.md",
+    "Data and Security.md",
+    "File System Structure.md",
+    "Extra-1.md",
+    "process management.md",
     "Functions of OS.md",
     "Operating system.md",
     "Software Components.md",
-    "Data Representation.md",
-    "Computer System Structure.md",
-    "Instructions.md",
-    "Number System.md",
-    "GNU sim.md",
-    "Binary Operations.md",
-    "Introduction to computers.md"
+    "Data Representation.md"
   ]
 }

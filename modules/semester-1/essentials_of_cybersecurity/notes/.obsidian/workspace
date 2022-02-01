@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f936dcf9c1ff99cb",
+        "id": "91ad5bba38f7c82c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "securing digital data.md",
+            "file": "Digital signatures & certificates.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "securing digital data.md",
+                "file": "Digital signatures & certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f936dcf9c1ff99cb",
+  "active": "91ad5bba38f7c82c",
   "lastOpenFiles": [
+    "Digital signatures & certificates.md",
+    "extra-1.md",
+    "Asymmetric.md",
+    "Message Authentication Codes.md",
     "securing digital data.md",
     "key based encryption.md",
     "Kerckhoff principle.md",
     "Untitled.md",
     "Permissions.md",
-    "Users & Groups.md",
-    "Terminals.md",
-    "Shell.md",
-    "regular expressions.md",
-    "Paths.md"
+    "Users & Groups.md"
   ]
 }
