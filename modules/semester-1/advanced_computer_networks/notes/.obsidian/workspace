@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "switch.md",
+            "file": "Modes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "switch.md",
+                "file": "Modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "252a33e919fc6645",
   "lastOpenFiles": [
+    "Modes.md",
+    "Netword device access.md",
+    "configuring admin for terminal.md",
+    "IOS hot keys shortcuts.md",
     "switch.md",
     "Ethernet mac address.md",
     "network basics.md",
     "Data link layer frame.md",
     "Random access protocols.md",
-    "Access protocols.md",
-    "Fiber Optics.md",
-    "Rules of communication.md",
-    "Internet.md",
-    "Network architecture.md"
+    "Access protocols.md"
   ]
 }

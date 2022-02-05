@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ER model.md",
+            "file": "labsheet4.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ER model.md",
+                "file": "labsheet4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "cb014d0f4192b1d2",
   "lastOpenFiles": [
-    "ER model.md",
+    "labsheet4.md",
+    "Subquery.md",
+    "Database System Structure.md",
     "Database users.md",
+    "Relational Algebra.md",
+    "ER model.md",
     "ER diagram.md",
     "DML commands.md",
     "constraints in ER model.md",
-    "Constraints.md",
-    "Untitled.md",
-    "Database Schema.md",
-    "Database Design.md",
-    "postgres commands.md"
+    "Constraints.md"
   ]
 }
