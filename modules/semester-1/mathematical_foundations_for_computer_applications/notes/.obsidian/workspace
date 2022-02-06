@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems week 4.md",
-            "mode": "preview"
+            "file": "pratice problems 12.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems week 4.md",
+                "file": "pratice problems 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "06d9d332e7442e6c",
   "lastOpenFiles": [
-    "Problems week 4.md",
-    "Proof.md",
-    "Proof by contraposition.md",
-    "proof by contradiction.md",
-    "Proof by equivalence.md",
-    "Operators.md",
+    "pratice problems 12.md",
+    "problems week 6.md",
+    "Uniqueness proofs.md",
+    "Existence Proof.md",
     "Normal Form.md",
-    "Rules of inference for quantified statements.md",
-    "problems.md",
-    "Predicate, quantifiers, binding.md"
+    "Further reading5.md",
+    "Common errors.md",
+    "Introduction to mathematical logic.md",
+    "Proof by cases.md",
+    "Counter example.md"
   ]
 }
