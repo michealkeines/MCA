@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Generations of computers.md",
-            "mode": "preview"
+            "file": "Linux foundations.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -48,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generations of computers.md",
+                "file": "Linux foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "Linux foundations.md",
+    "GNU sim.md",
     "Generations of computers.md",
     "Number System.md",
     "Data and Security.md",
@@ -96,8 +98,6 @@
     "Extra-1.md",
     "process management.md",
     "Functions of OS.md",
-    "Operating system.md",
-    "Software Components.md",
-    "Data Representation.md"
+    "Operating system.md"
   ]
 }
