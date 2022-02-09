@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digital signatures & certificates.md",
+            "file": "Transport layer security.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital signatures & certificates.md",
+                "file": "Transport layer security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "91ad5bba38f7c82c",
   "lastOpenFiles": [
-    "Digital signatures & certificates.md",
+    "Transport layer security.md",
     "extra-1.md",
+    "Sematic security.md",
+    "File descriptors & streams.md",
+    "Digital signatures & certificates.md",
     "Asymmetric.md",
     "Message Authentication Codes.md",
     "securing digital data.md",
     "key based encryption.md",
-    "Kerckhoff principle.md",
-    "Untitled.md",
-    "Permissions.md",
-    "Users & Groups.md"
+    "Kerckhoff principle.md"
   ]
 }
