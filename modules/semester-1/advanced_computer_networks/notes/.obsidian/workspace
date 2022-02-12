@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modes.md",
+            "file": "IPv4.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modes.md",
+                "file": "IPv4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "252a33e919fc6645",
   "lastOpenFiles": [
+    "IPv4.md",
     "Modes.md",
     "Netword device access.md",
     "configuring admin for terminal.md",
@@ -96,7 +97,6 @@
     "Ethernet mac address.md",
     "network basics.md",
     "Data link layer frame.md",
-    "Random access protocols.md",
-    "Access protocols.md"
+    "Random access protocols.md"
   ]
 }
