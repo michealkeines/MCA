@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "06d9d332e7442e6c",
+        "id": "028c5b1066757504",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pratice problems 12.md",
-            "mode": "preview",
-            "source": false
+            "file": "Functions/Functions.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pratice problems 12.md",
+                "file": "Functions/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06d9d332e7442e6c",
+  "active": "028c5b1066757504",
   "lastOpenFiles": [
-    "pratice problems 12.md",
-    "problems week 6.md",
-    "Uniqueness proofs.md",
-    "Existence Proof.md",
-    "Normal Form.md",
-    "Further reading5.md",
-    "Common errors.md",
-    "Introduction to mathematical logic.md",
-    "Proof by cases.md",
-    "Counter example.md"
+    "Functions/Functions.md",
+    "Functions/Practice problems 17.md",
+    "Functions/Practice problem 16.md",
+    "Sets/Set Theory.md",
+    "Sets/Practice problems 15.md",
+    "Sets/Set Operations.md",
+    "Sets/Practice problems 14.md",
+    "Untitled.md",
+    "mathamatic logic/Counter example.md",
+    "Untitled 1.md"
   ]
 }
