@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux foundations.md",
+            "file": "Binary Coding Schema.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generation",
+                "query": "deci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux foundations.md",
+                "file": "Binary Coding Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
-    "Linux foundations.md",
-    "GNU sim.md",
+    "Binary Coding Schema.md",
     "Generations of computers.md",
-    "Number System.md",
-    "Data and Security.md",
-    "File System Structure.md",
+    "Conversions.md",
     "Extra-1.md",
-    "process management.md",
+    "Data Representation.md",
+    "Binary Operations.md",
+    "Number System.md",
+    "Binary Arithmetic.md",
     "Functions of OS.md",
-    "Operating system.md"
+    "Linux foundations.md"
   ]
 }

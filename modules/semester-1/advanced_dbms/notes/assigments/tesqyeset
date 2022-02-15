@@ -1,0 +1,2 @@
+select p.pno, p.dno, e.lname, e.address from project p, department d, employee e where
+p.plocation = 'prolo2' and p.dno = d.dno and d.mgrssn = e.ssn;
