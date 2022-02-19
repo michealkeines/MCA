@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binary Operations.md",
+            "file": "lab sheet 2 - computer systems.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Operations.md",
+                "file": "lab sheet 2 - computer systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,8 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "lab sheet 2 - computer systems.md",
+    "Data and Security.md",
     "Binary Operations.md",
     "Binary Coding Schema.md",
     "Generations of computers.md",
@@ -97,8 +98,6 @@
     "Extra-1.md",
     "Data Representation.md",
     "Number System.md",
-    "Binary Arithmetic.md",
-    "Functions of OS.md",
-    "Linux foundations.md"
+    "Binary Arithmetic.md"
   ]
 }
