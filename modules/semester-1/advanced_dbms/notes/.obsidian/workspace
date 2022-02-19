@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "temp.md",
+            "file": "labsheet5-ADBMS.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.00000190734863
+    "width": 208.00000190734863
   },
   "right": {
     "id": "30352e0c4a3b413b",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp.md",
+                "file": "labsheet5-ADBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "cb014d0f4192b1d2",
   "lastOpenFiles": [
+    "labsheet5-ADBMS.md",
     "temp.md",
-    "labsheet5.md",
     "joins.md",
+    "Untitled.md",
+    "Transactions.md",
+    "ACID properties.md",
+    "ACID properties in DBMS.md",
+    "DML commands.md",
     "Relational Model.md",
-    "ER diagram.md",
-    "Pasted image 20220213080452.png",
-    "Database types.md",
-    "Constraints.md",
-    "labsheet4.md",
-    "Subquery.md"
+    "ER diagram.md"
   ]
 }

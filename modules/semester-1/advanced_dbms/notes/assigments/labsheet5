@@ -1,0 +1,6 @@
+select dr.dname, t.no_of_employees from department dr,
+(select d.dname, count(*) >= 2 as isTrue, 
+ 	count(*) as no_of_employees from department d 
+	inner join employee e on e.dno = d.dno
+	group by d.dname) as t
+where dr.dname = t.dname and t.isTrue = true;

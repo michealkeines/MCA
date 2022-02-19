@@ -7,12 +7,8 @@
         "id": "91ad5bba38f7c82c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AES Cipher.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AES Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "91ad5bba38f7c82c",
   "lastOpenFiles": [
+    "Abstraction.md",
+    "Message Authentication Codes.md",
+    "Digital signatures & certificates.md",
+    "Kerckhoff principle.md",
     "AES Cipher.md",
     "RSA Authentication & Key exchange.md",
-    "Message Authentication Codes.md",
     "TLS summary.md",
     "Paths.md",
     "MAC codes.md",
-    "TLS Symmetric encryption.md",
-    "TLS key exchange algorithms.md",
-    "regular expressions.md",
-    "TLS handshake.md"
+    "TLS Symmetric encryption.md"
   ]
 }

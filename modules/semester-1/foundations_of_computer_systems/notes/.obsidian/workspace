@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binary Coding Schema.md",
+            "file": "Binary Operations.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deci",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Coding Schema.md",
+                "file": "Binary Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +90,12 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "Binary Operations.md",
     "Binary Coding Schema.md",
     "Generations of computers.md",
     "Conversions.md",
     "Extra-1.md",
     "Data Representation.md",
-    "Binary Operations.md",
     "Number System.md",
     "Binary Arithmetic.md",
     "Functions of OS.md",
