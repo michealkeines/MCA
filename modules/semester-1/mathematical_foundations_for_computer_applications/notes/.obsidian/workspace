@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "028c5b1066757504",
+        "id": "7bd53d570ca55e3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Functions/Functions.md",
-            "mode": "source",
-            "source": true
+            "file": "Counting problems/Practice Problems 18.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/Functions.md",
+                "file": "Counting problems/Practice Problems 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "028c5b1066757504",
+  "active": "7bd53d570ca55e3a",
   "lastOpenFiles": [
-    "Functions/Functions.md",
-    "Functions/Practice problems 17.md",
-    "Functions/Practice problem 16.md",
-    "Sets/Set Theory.md",
-    "Sets/Practice problems 15.md",
-    "Sets/Set Operations.md",
-    "Sets/Practice problems 14.md",
+    "Counting problems/Practice Problems 18.md",
+    "Counting problems/Practice problems 21.md",
+    "Counting problems/Practice problems 20.md",
+    "Counting problems/Pratice Problems 19.md",
+    "Counting problems/Permutations.md",
     "Untitled.md",
-    "mathamatic logic/Counter example.md",
-    "Untitled 1.md"
+    "Counting problems/Binomial Theorem.md",
+    "Counting problems/Combinations.md",
+    "Counting problems/Pigeonhole Principle.md",
+    "Counting problems/Basics of Counting.md"
   ]
 }
