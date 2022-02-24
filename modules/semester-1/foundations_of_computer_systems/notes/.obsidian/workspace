@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logic Cricuits.md",
-            "mode": "source",
+            "file": "Boolean Algebra.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Cricuits.md",
+                "file": "Boolean Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
-    "Logic Cricuits.md",
-    "lab sheet 2 - computer systems.md",
-    "Logic Gate.md",
     "Boolean Algebra.md",
+    "Logic Gate.md",
+    "Logic Cricuits.md",
+    "Linux foundations.md",
+    "Number System.md",
+    "lab sheet 2 - computer systems.md",
     "Classification of computers.md",
     "Binary Logic or Boolean Logic.md",
     "Data and Security.md",
-    "Binary Operations.md",
-    "Binary Coding Schema.md",
-    "Generations of computers.md"
+    "Binary Operations.md"
   ]
 }
