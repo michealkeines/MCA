@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "labsheet5-ADBMS.md",
+            "file": "Concurrency Control.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labsheet5-ADBMS.md",
+                "file": "Concurrency Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "cb014d0f4192b1d2",
   "lastOpenFiles": [
+    "Concurrency Control.md",
+    "Database types.md",
     "labsheet5-ADBMS.md",
     "temp.md",
     "joins.md",
@@ -96,8 +98,6 @@
     "Transactions.md",
     "ACID properties.md",
     "ACID properties in DBMS.md",
-    "DML commands.md",
-    "Relational Model.md",
-    "ER diagram.md"
+    "DML commands.md"
   ]
 }
