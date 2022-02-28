@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boolean Algebra.md",
+            "file": "lab sheet 2 - computer systems.md",
             "mode": "preview",
             "source": true
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Algebra.md",
+                "file": "lab sheet 2 - computer systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "lab sheet 2 - computer systems.md",
+    "Fundamentals of databases.md",
+    "Data.md",
+    "Intro to File.md",
+    "Extra-1.md",
+    "computer memory.md",
     "Boolean Algebra.md",
     "Logic Gate.md",
     "Logic Cricuits.md",
-    "Linux foundations.md",
-    "Number System.md",
-    "lab sheet 2 - computer systems.md",
-    "Classification of computers.md",
-    "Binary Logic or Boolean Logic.md",
-    "Data and Security.md",
-    "Binary Operations.md"
+    "Linux foundations.md"
   ]
 }
