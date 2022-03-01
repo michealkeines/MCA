@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operating systems.md",
+            "file": "Assembly Programs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating systems.md",
+                "file": "Assembly Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "91ad5bba38f7c82c",
   "lastOpenFiles": [
-    "Operating systems.md",
-    "Recommendations on using crypto.md",
-    "Processess.md",
-    "Message Authentication Codes.md",
-    "System security modules.md",
-    "Paths.md",
-    "Permissions.md",
+    "Assembly Programs.md",
+    "Stack.md",
+    "CPU Programming.md",
+    "file manipulation.md",
+    "Digital signatures & certificates.md",
     "Problems with password.md",
-    "Abstraction.md",
-    "Digital signatures & certificates.md"
+    "Interrupts and context switch.md",
+    "Message Authentication Codes.md",
+    "Operating systems.md",
+    "Recommendations on using crypto.md"
   ]
 }
