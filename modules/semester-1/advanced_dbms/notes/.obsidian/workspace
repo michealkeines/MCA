@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concurrency Control.md",
+            "file": "Subquery.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strong entity",
+                "query": "sub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 208.00000190734863
+    "width": 323.00000190734863
   },
   "right": {
     "id": "30352e0c4a3b413b",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency Control.md",
+                "file": "Subquery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "cb014d0f4192b1d2",
   "lastOpenFiles": [
-    "Concurrency Control.md",
+    "Subquery.md",
+    "Relational Algebra.md",
+    "Relational Model.md",
+    "Database Schema.md",
+    "Untitled 1.md",
     "Database types.md",
-    "labsheet5-ADBMS.md",
-    "temp.md",
-    "joins.md",
-    "Untitled.md",
-    "Transactions.md",
-    "ACID properties.md",
-    "ACID properties in DBMS.md",
-    "DML commands.md"
+    "Recovery Alogrithm.md",
+    "Failures.md",
+    "Log and Log based recovery.md",
+    "ACID.md"
   ]
 }
