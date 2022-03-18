@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Labsheet-9-ACN.md",
+            "file": "IPv6.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labsheet-9-ACN.md",
+                "file": "IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "252a33e919fc6645",
   "lastOpenFiles": [
+    "IPv6.md",
     "Labsheet-9-ACN.md",
     "Ethernet mac address.md",
     "Subnet.md",
@@ -97,7 +98,6 @@
     "Fiber Optics.md",
     "Labsheet-8-ACN.md",
     "IOS hot keys shortcuts.md",
-    "IPv4 Addressing Structure.md",
-    "Public & Private IPv4.md"
+    "IPv4 Addressing Structure.md"
   ]
 }
