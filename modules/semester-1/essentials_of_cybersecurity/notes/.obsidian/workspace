@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Processess.md",
+            "file": "Virtual Memory.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "full ad",
+                "query": "segments",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Processess.md",
+                "file": "Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "91ad5bba38f7c82c",
   "lastOpenFiles": [
-    "Processess.md",
     "Virtual Memory.md",
+    "Processess.md",
     "Assembly Programs.md",
     "Stack.md",
     "Untitled.md",
