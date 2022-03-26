@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IO-parallelism.md",
+            "file": "labsheet-6-ADBMS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IO-parallelism.md",
+                "file": "labsheet-6-ADBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "9ed5171dc72b564b",
   "lastOpenFiles": [
+    "labsheet-6-ADBMS.md",
+    "Entities Type Hirarchies.md",
+    "Parallel Systems.md",
+    "Relational Algebra.md",
     "IO-parallelism.md",
     "ORDBMS.md",
-    "Parallel Systems.md",
     "Database users.md",
     "arrays.md",
     "Table and Type inheritance.md",
-    "DML commands.md",
-    "ER diagram.md",
-    "Speciality databases.md",
-    "Subquery.md"
+    "DML commands.md"
   ]
 }
