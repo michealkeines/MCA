@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Group Theory/Practice problems 27.md",
+            "file": "Group Theory/Practice problems 29.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group Theory/Practice problems 27.md",
+                "file": "Group Theory/Practice problems 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "7bd53d570ca55e3a",
   "lastOpenFiles": [
-    "Group Theory/Practice problems 27.md",
+    "Group Theory/Practice problems 29.md",
+    "Group Theory/sub groups.md",
+    "Group Theory/Cyclic Groups.md",
+    "Group Theory/Lagrange's Theorm.md",
+    "Group Theory/Isomorphic groups.md",
+    "Group Theory/Closets.md",
     "Group Theory/Group Theory.md",
     "Group Theory/Practice Problems 26.md",
-    "Group Theory/Representaiton of Relations.md",
-    "Group Theory/Directed Graphs.md",
-    "Group Theory/Equivalence relations.md",
-    "Counting problems/Transitive.md",
-    "Counting problems/Relations.md",
-    "Counting problems/Composite.md",
-    "Counting problems/Combining Relations.md"
+    "Group Theory/Group Theory Propositions.md",
+    "Group Theory/Practice problems 27.md"
   ]
 }
