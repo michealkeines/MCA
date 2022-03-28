@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL.md",
-            "mode": "preview",
+            "file": "Networking.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "Networking.md",
+    "Introduction to computers.md",
+    "Logic Cricuits.md",
     "SQL.md",
     "Data.md",
-    "Logic Cricuits.md",
     "Data and Security.md",
     "RDBMS.md",
     "Functions of OS.md",
     "Fundamentals of databases.md",
-    "File System Structure.md",
-    "lab sheet 2 - computer systems.md",
-    "Intro to File.md"
+    "File System Structure.md"
   ]
 }
