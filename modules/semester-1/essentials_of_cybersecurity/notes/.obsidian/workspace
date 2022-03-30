@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Virtual Memory.md",
+            "file": "Libraries.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "segments",
+                "query": "lin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Memory.md",
+                "file": "Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "91ad5bba38f7c82c",
   "lastOpenFiles": [
+    "Libraries.md",
+    "Operating systems.md",
+    "Abstrations.md",
+    "Interrupts and context switch.md",
     "Virtual Memory.md",
     "Processess.md",
     "Assembly Programs.md",
     "Stack.md",
     "Untitled.md",
-    "Interrupts and context switch.md",
-    "CPU Programming.md",
-    "file manipulation.md",
-    "Digital signatures & certificates.md",
-    "Problems with password.md"
+    "CPU Programming.md"
   ]
 }
