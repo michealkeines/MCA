@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Generics.md",
+            "file": "evolution of java.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generics.md",
+                "file": "evolution of java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "43c0bf988dafe882",
   "lastOpenFiles": [
+    "evolution of java.md",
+    "Theory of Authority.md",
+    "Authority Max Weber.md",
     "Generics.md",
     "Operators.md",
     "Swing.md",
     "Streams.md",
     "Multi-Threading.md",
     "Interface.md",
-    "Files.md",
-    "Inheritance.md",
-    "String.md",
-    "Exceptions.md"
+    "Files.md"
   ]
 }
