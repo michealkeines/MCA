@@ -33,6 +33,8 @@ Factors Limiting Speedup and Scaleup
 
 Parallel Database Archritectures
 
+shared memory, shared disk, shared nothing, hierarchical
+
 ![[Pasted image 20220325000904.png]]
 
 ![[Pasted image 20220325000927.png]]
