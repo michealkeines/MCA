@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Networking.md",
-            "mode": "preview",
+            "file": "HTTP.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking.md",
+                "file": "HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
-    "Networking.md",
+    "HTTP.md",
+    "Extra-1.md",
+    "DNS.md",
+    "Network Protocols.md",
     "Introduction to computers.md",
+    "IP notations.md",
+    "computer memory.md",
+    "Networking.md",
     "Logic Cricuits.md",
-    "SQL.md",
-    "Data.md",
-    "Data and Security.md",
-    "RDBMS.md",
-    "Functions of OS.md",
-    "Fundamentals of databases.md",
-    "File System Structure.md"
+    "SQL.md"
   ]
 }
