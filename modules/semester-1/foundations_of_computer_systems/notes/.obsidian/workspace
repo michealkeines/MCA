@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTTP.md",
-            "mode": "source",
+            "file": "Malware analysis.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP.md",
+                "file": "Malware analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "Malware analysis.md",
+    "Functions of OS.md",
     "HTTP.md",
     "Extra-1.md",
     "DNS.md",
@@ -96,8 +98,6 @@
     "Introduction to computers.md",
     "IP notations.md",
     "computer memory.md",
-    "Networking.md",
-    "Logic Cricuits.md",
-    "SQL.md"
+    "Networking.md"
   ]
 }
