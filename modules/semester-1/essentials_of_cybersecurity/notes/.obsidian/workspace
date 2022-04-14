@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91ad5bba38f7c82c",
+        "id": "6391a165feaf6259",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Libraries.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91ad5bba38f7c82c",
+  "active": "6391a165feaf6259",
   "lastOpenFiles": [
-    "Libraries.md",
-    "Operating systems.md",
-    "Abstrations.md",
-    "Interrupts and context switch.md",
-    "Virtual Memory.md",
-    "Processess.md",
-    "Assembly Programs.md",
-    "Stack.md",
-    "Untitled.md",
-    "CPU Programming.md"
+    "Pasted image 20220405123545.png.md",
+    "malware analysisi.md",
+    "Kerckhoff principle.md",
+    "Digital signatures & certificates.md",
+    "Dynamic analysis.md",
+    "Static analysis.md",
+    "Permissions.md",
+    "STatic analysis.md",
+    "key based encryption.md",
+    "Libraries.md"
   ]
 }
