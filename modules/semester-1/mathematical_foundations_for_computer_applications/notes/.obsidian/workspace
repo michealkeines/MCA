@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matrices/Pratice Problems 32.md",
+            "file": "Group Theory/Practice problems 29.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "universal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrices/Pratice Problems 32.md",
+                "file": "Group Theory/Practice problems 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "7bd53d570ca55e3a",
   "lastOpenFiles": [
-    "Matrices/Pratice Problems 32.md",
-    "Matrices/Practice problems 31.md",
-    "Matrices/Special types of Matrix.md",
-    "Matrices/System of Linear Equations.md",
-    "Matrices/Linear independence.md",
+    "Group Theory/Practice problems 29.md",
     "Matrices/Practice problems 29.md",
-    "Matrices/Inverse of a matrix.md",
-    "Matrices/Practice Problems 30.md",
-    "Matrices/Determinants.md",
-    "Matrices/Matricies.md"
+    "Counting problems/Practice problems 20.md",
+    "Counting problems/Practice Problems 18.md",
+    "Functions/Practice problem 16.md",
+    "Functions/Practice problems 17.md",
+    "Group Theory/Isomorphic groups.md",
+    "Group Theory/Lagrange's Theorm.md",
+    "Group Theory/Practice Problems 26.md",
+    "Group Theory/Practice problems 27.md"
   ]
 }

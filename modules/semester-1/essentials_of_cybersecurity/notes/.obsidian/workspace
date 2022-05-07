@@ -7,8 +7,12 @@
         "id": "6391a165feaf6259",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "malware analysisi.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dynamic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "malware analysisi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "6391a165feaf6259",
   "lastOpenFiles": [
-    "Pasted image 20220405123545.png.md",
     "malware analysisi.md",
-    "Kerckhoff principle.md",
-    "Digital signatures & certificates.md",
-    "Dynamic analysis.md",
-    "Static analysis.md",
-    "Permissions.md",
-    "STatic analysis.md",
+    "MAC codes.md",
+    "Libraries.md",
     "key based encryption.md",
-    "Libraries.md"
+    "Kerckhoff principle.md",
+    "Introduction to Linux.md",
+    "Interrupts and context switch.md",
+    "file manipulation.md",
+    "File descriptors & streams.md",
+    "extra-1.md"
   ]
 }

@@ -21,11 +21,13 @@ file hosting services
 let say that alice stored her password in pendrive, and eve got access to the pendrive, thus eve will be able to access alice's password and use it, this should be prevents, that why we should encrypt all the dat athat are at rest, even eve gets access to pendrive she shouldnt be able to use the password
 
 
-Special case: data in rest but get used in time
+Special case: data in rest can be considered as data in motion when it get used in time
 
 ![[Pasted image 20220117110212.png]]
 
-communication thorugh time.
+communication thorugh time. here the password is stored in morning 11 and used in eveing 5 pm.
+
+we can think of it as alice at 11am communicating with alice at 5pm through the drive
 
 
 
@@ -63,7 +65,7 @@ eve shouldn't be able to read the message no matter what.
 
 Confidentiality
 
-only the send and the receiver should be able to understand the message
+only the sender and the receiver should be able to understand the message
 
 so, in our scenario, only alice and bob should be able to understand the message
 
