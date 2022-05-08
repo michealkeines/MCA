@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Group Theory/Practice problems 29.md",
+            "file": "questions in exam.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group Theory/Practice problems 29.md",
+                "file": "questions in exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "7bd53d570ca55e3a",
   "lastOpenFiles": [
+    "questions in exam.md",
+    "Notes before exam.md",
     "Group Theory/Practice problems 29.md",
     "Matrices/Practice problems 29.md",
     "Counting problems/Practice problems 20.md",
@@ -96,8 +98,6 @@
     "Functions/Practice problem 16.md",
     "Functions/Practice problems 17.md",
     "Group Theory/Isomorphic groups.md",
-    "Group Theory/Lagrange's Theorm.md",
-    "Group Theory/Practice Problems 26.md",
-    "Group Theory/Practice problems 27.md"
+    "Group Theory/Lagrange's Theorm.md"
   ]
 }
