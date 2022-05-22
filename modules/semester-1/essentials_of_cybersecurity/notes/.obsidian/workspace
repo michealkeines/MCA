@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "malware analysisi.md",
+            "file": "Processess.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dynamic",
+                "query": "tlb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malware analysisi.md",
+                "file": "Processess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6391a165feaf6259",
   "lastOpenFiles": [
-    "malware analysisi.md",
-    "MAC codes.md",
-    "Libraries.md",
-    "key based encryption.md",
-    "Kerckhoff principle.md",
-    "Introduction to Linux.md",
-    "Interrupts and context switch.md",
-    "file manipulation.md",
-    "File descriptors & streams.md",
-    "extra-1.md"
+    "Processess.md",
+    "Sematic security.md",
+    "Virtual Memory.md",
+    "Abstrations.md",
+    "AES Cipher.md",
+    "Assembly Programs.md",
+    "Asymmetric.md",
+    "CPU Programming.md",
+    "Digital signatures & certificates.md",
+    "Dynamic analysis.md"
   ]
 }

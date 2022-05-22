@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "evolution of java.md",
+            "file": "Abstraction.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "evolution of java.md",
+                "file": "Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "43c0bf988dafe882",
   "lastOpenFiles": [
+    "Abstraction.md",
+    "Array.md",
+    "Class.md",
+    "Control Statement.md",
     "evolution of java.md",
-    "Theory of Authority.md",
-    "Authority Max Weber.md",
+    "Exceptions.md",
+    "Features of java.md",
+    "Files.md",
     "Generics.md",
-    "Operators.md",
-    "Swing.md",
-    "Streams.md",
-    "Multi-Threading.md",
-    "Interface.md",
-    "Files.md"
+    "Inheritance.md"
   ]
 }

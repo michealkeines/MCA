@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "labsheet 11.md",
+            "file": "Exam report.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labsheet 11.md",
+                "file": "Exam report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
+    "Exam report.md",
+    "Computer Architecture.md",
     "labsheet 11.md",
     "Functions of OS.md",
     "Mobile and cellular communications.md",
@@ -96,8 +98,6 @@
     "DNS.md",
     "Malware analysis.md",
     "lab sheet 2 - computer systems.md",
-    "HTTP.md",
-    "Extra-1.md",
-    "Network Protocols.md"
+    "HTTP.md"
   ]
 }
