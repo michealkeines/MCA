@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "9dd16e107ed85c9a",
+    "id": "28f22ff023ecedf8",
     "type": "split",
     "children": [
       {
-        "id": "9ed5171dc72b564b",
+        "id": "f3cfaa5527d611a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exam report.md",
+            "file": "Week-1/basics.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8863a91e0ffd8b1",
+    "id": "923a48dbc0b47e5c",
     "type": "split",
     "children": [
       {
-        "id": "c084f0f806c04200",
+        "id": "bb6285b5af99fb10",
         "type": "tabs",
         "children": [
           {
-            "id": "1838022bcd4e2fc7",
+            "id": "b5e1c31ccbed8711",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "9d2d7dbd2bdca55c",
+            "id": "d85d518cb910076f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "intra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.00000190734863
+    "width": 300
   },
   "right": {
-    "id": "30352e0c4a3b413b",
+    "id": "225a15e6c28d8872",
     "type": "split",
     "children": [
       {
-        "id": "9ae1a96b9e7eb64b",
+        "id": "e08a65db7e40d577",
         "type": "tabs",
         "children": [
           {
-            "id": "c448775851e8f1fc",
+            "id": "945ebfe15be2e885",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam report.md",
+                "file": "Week-1/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ed5171dc72b564b",
+  "active": "f3cfaa5527d611a0",
   "lastOpenFiles": [
-    "Exam report.md",
-    "DML commands.md",
-    "labsheet-6-ADBMS.md",
-    "labsheet5-ADBMS.md",
-    "IO-parallelism.md",
-    "Transactions.md",
-    "Speciality databases.md",
-    "Recovery Alogrithm.md",
-    "Parallel Systems.md",
-    "joins.md"
+    "Week-1/basics.md"
   ]
 }

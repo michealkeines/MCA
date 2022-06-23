@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exam report.md",
+            "file": "Logic Cricuits.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam report.md",
+                "file": "Logic Cricuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2aa42b28a52ff12e",
   "lastOpenFiles": [
-    "Exam report.md",
-    "Computer Architecture.md",
+    "Logic Cricuits.md",
     "labsheet 11.md",
+    "GNU sim.md",
+    "Generations of computers.md",
+    "Fundamentals of databases.md",
     "Functions of OS.md",
-    "Mobile and cellular communications.md",
-    "wireless device.md",
+    "File System Structure.md",
+    "Extra-1.md",
     "DNS.md",
-    "Malware analysis.md",
-    "lab sheet 2 - computer systems.md",
-    "HTTP.md"
+    "Data Representation.md"
   ]
 }

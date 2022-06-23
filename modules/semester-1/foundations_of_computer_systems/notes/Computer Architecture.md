@@ -11,7 +11,7 @@ ALU - this is where is arithemetic operations happend
 Control Unit - this controls the activites of every component
 Registers - temporary storage locations for data
 
-registers are classified into 
+registers are classified into
 Special purpose register
 General purpose register
 
