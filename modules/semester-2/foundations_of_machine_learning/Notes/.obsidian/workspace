@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "d6bcf146e1575fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd496b82fd678570",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "week-1/lab-1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3df3bb768e32fd64",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd64b0782d89586a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feed96a10addec96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43f2a8df5fb74021",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b79c08ad51dd410",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa38078589ed3813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7afd0538bf16c757",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week-1/lab-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bd496b82fd678570",
+  "lastOpenFiles": [
+    "week-1/lab-1.md",
+    "week-1/Methods.md",
+    "week-1/Learing Methods.md",
+    "week-1/Data.md",
+    "week-1/Basics.md"
+  ]
+}
