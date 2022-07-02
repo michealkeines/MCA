@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "63d140af7db3d02e",
+    "type": "split",
+    "children": [
+      {
+        "id": "113938be00273583",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "week-1/Cloud Services.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3382fd3bf2fa65b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8beb361156234fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "497920d13090fce4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86c045a613eb2523",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cebb943d21959816",
+    "type": "split",
+    "children": [
+      {
+        "id": "dddd82d41a2d7422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14f8438d7090566d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week-1/Cloud Services.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "113938be00273583",
+  "lastOpenFiles": [
+    "week-1/Cloud Services.md",
+    "week-1/Basics.md"
+  ]
+}
