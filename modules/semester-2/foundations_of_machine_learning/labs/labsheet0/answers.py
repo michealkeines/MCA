@@ -24,7 +24,11 @@ data_3 =  {'X':[68,75,86,70,76], 'Y':[74,84,79,73,76],'Z':[76,87,86,62,73]}
 
 sample3_data_frame = pd.DataFrame.from_dict(data_3)
 
-print(sample3_data_frame)
+## updated version after live session
+
+power_arr = sample3_data_frame.pow(sample3_data_frame)
+
+print(power_arr)
 print("\n\n")
 
 # 4. Write a Pandas program to get the first 3 rows of a given DataFrame

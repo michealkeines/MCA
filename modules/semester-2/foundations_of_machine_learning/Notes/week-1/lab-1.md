@@ -33,16 +33,20 @@ print("\n\n")
 data_3 =  {'X':[68,75,86,70,76], 'Y':[74,84,79,73,76],'Z':[76,87,86,62,73]}
 
 sample3_data_frame = pd.DataFrame.from_dict(data_3)
+## updated version after live session
+
+power_arr = sample3_data_frame.pow(sample3_data_frame)
 
 print(sample3_data_frame)
 print("\n\n")
 
-    X   Y   Z
-0  68  74  76
-1  75  84  87
-2  86  79  86
-3  70  73  62
-4  76  76  73
+                     X                    Y                    Z
+0                    0                    0                    0
+1  2435553365352800019                    0  1826852818786091687
+2                    0  1483551237918615471                    0
+3                    0 -3116162374727926391  4611686018427387904
+4                    0                    0 -3116162374727926391
+
 
 # 4. Write a Pandas program to get the first 3 rows of a given DataFrame
 

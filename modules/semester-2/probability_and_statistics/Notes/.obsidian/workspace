@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "f87532abb0968d78",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e46dd5193e8ebe9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "week-1/Examples.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b53d752b5eb55f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f24c78fea8459ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6690542b465260",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f125ed5282fcb4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7db4449324a2ee8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f304fa211b12c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f7982eb252117d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week-1/Examples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7e46dd5193e8ebe9",
+  "lastOpenFiles": [
+    "week-1/Examples.md",
+    "week-1/Theorem.md",
+    "week-1/Properties.md",
+    "week-1/Intro to Probability.md"
+  ]
+}
