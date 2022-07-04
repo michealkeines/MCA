@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "week-1/Cloud Services.md",
+            "file": "week-2/setup.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week-1/Cloud Services.md",
+                "file": "week-2/setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,12 @@
   },
   "active": "113938be00273583",
   "lastOpenFiles": [
+    "week-2/setup.md",
     "week-1/Cloud Services.md",
+    "week-2/GCP API.md",
+    "week-2/cloud shell.md",
+    "week-2/mobile app.md",
+    "week-2/Billing.md",
     "week-1/Basics.md"
   ]
 }
