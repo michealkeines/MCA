@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "week-1/lab-1.md",
+            "file": "week-2/Measuring Metrics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week-1/lab-1.md",
+                "file": "week-2/Measuring Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,14 @@
   },
   "active": "bd496b82fd678570",
   "lastOpenFiles": [
+    "week-2/Measuring Metrics.md",
+    "week-2/Machine Learning Process.md",
+    "Untitled.md",
+    "week-2/k-nearest neighbor.md",
+    "week-1/Basics.md",
     "week-1/lab-1.md",
     "week-1/Methods.md",
     "week-1/Learing Methods.md",
-    "week-1/Data.md",
-    "week-1/Basics.md"
+    "week-1/Data.md"
   ]
 }
