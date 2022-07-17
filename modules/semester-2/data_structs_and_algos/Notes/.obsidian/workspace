@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week-2/Queue.md",
+            "file": "Week-2/stack applications.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 152.5
   },
   "right": {
     "id": "225a15e6c28d8872",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-2/Queue.md",
+                "file": "Week-2/stack applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,9 @@
   },
   "active": "f3cfaa5527d611a0",
   "lastOpenFiles": [
-    "Week-2/Queue.md",
     "Week-2/Types of Expression.md",
+    "Week-2/Queue.md",
+    "Week-1/Linked-list.md",
     "Week-2/stack applications.md",
     "Week-1/basics.md"
   ]

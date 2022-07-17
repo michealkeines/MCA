@@ -6,7 +6,7 @@ Operations
 
 ![[Pasted image 20220709035502.png]]
 
-Applications
+Applications 123
 
 ![[Pasted image 20220709040012.png]]
 

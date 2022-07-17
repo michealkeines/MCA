@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "week-2/setup.md",
+            "file": "week-3/summary.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 165.5
   },
   "right": {
     "id": "cebb943d21959816",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week-2/setup.md",
+                "file": "week-3/summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "113938be00273583",
   "lastOpenFiles": [
+    "week-3/gke.md",
+    "week-3/compute option.md",
+    "week-3/scaling.md",
+    "week-3/app engine.md",
+    "week-3/cloud functions.md",
     "week-2/setup.md",
     "week-1/Cloud Services.md",
     "week-2/GCP API.md",
     "week-2/cloud shell.md",
-    "week-2/mobile app.md",
-    "week-2/Billing.md",
-    "week-1/Basics.md"
+    "week-2/mobile app.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "week-2/Measuring Metrics.md",
+            "file": "week-2/k-nearest neighbor.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "manha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week-2/Measuring Metrics.md",
+                "file": "week-2/k-nearest neighbor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,16 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd496b82fd678570",
+  "active": "43f2a8df5fb74021",
   "lastOpenFiles": [
+    "week-3/Gradient Descent.md",
+    "week-3/Cost Function.md",
+    "week-3/regression.md",
+    "week-3/supervised learning.md",
     "week-2/Measuring Metrics.md",
     "week-2/Machine Learning Process.md",
     "Untitled.md",
     "week-2/k-nearest neighbor.md",
     "week-1/Basics.md",
-    "week-1/lab-1.md",
-    "week-1/Methods.md",
-    "week-1/Learing Methods.md",
-    "week-1/Data.md"
+    "week-1/lab-1.md"
   ]
 }
